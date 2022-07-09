@@ -12,3 +12,6 @@ Requirement:
 6. optional, wireless keypad with mouse
 7. install kali-grant-root, for user kali
 8. add kali to sudo group
+
+Run:
+python ui.py
